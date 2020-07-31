@@ -43,5 +43,6 @@ int main(int argc, char *argv[])
         printf("%d, ", resourceAvailable[i]);
     }
     */
+    printf("Hello prof");
     return 0;
 }
